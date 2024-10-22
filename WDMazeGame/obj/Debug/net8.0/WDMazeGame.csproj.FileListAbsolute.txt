@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\bin\Debug\net8.0\WDMazeGame.exe
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\bin\Debug\net8.0\WDMazeGame.deps.json
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\bin\Debug\net8.0\WDMazeGame.runtimeconfig.json
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\bin\Debug\net8.0\WDMazeGame.dll
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\bin\Debug\net8.0\WDMazeGame.pdb
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.dll
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\refint\WDMazeGame.dll
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.pdb
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\ref\WDMazeGame.dll
