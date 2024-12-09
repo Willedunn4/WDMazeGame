@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WDMazeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ac0d7bbd5ae98cca37ebe820fc4dfdd9ee24b41")]
 [assembly: System.Reflection.AssemblyProductAttribute("WDMazeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WDMazeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

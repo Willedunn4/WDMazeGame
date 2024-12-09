@@ -12,3 +12,4 @@ C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\refint\WDMaze
 C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.pdb
 C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.genruntimeconfig.cache
 C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\ref\WDMazeGame.dll
+C:\Users\wille\source\repos\WDMazeGame\WDMazeGame\obj\Debug\net8.0\WDMazeGame.sourcelink.json
